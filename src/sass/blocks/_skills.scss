@@ -5,7 +5,8 @@
     padding-top: 10px;
 }
 .skills {
-    background: url('../img/s_bg.jpg') no-repeat 50%/cover;
+    // background: url('../img/s_bg.jpg') no-repeat 50%/cover;
+    background: linear-gradient(317deg, #0202ae 0%, #f20052 100%);
     margin-top: 120px;
     min-height: 1100px;
     &__items {

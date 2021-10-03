@@ -154,6 +154,7 @@ window.addEventListener('DOMContentLoaded', function() {
 		}); 
 	});
 	}(jQuery));
+	new WOW().init();
 });
 
 
